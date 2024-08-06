@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/callmejudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myLinkedInProfile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Feel free to visit my Medium profile</h3>
+<h3 align="left">Feel free to visit my Medium profile:</h3>
 <p align="left">
 <a href="https://medium.com/@callmejudy" target="blank"><img align="center" src="https://img.icons8.com/sf-regular-filled/48/medium-logo.png" alt="myMediumProfile" width="48" height="48" /></a>
 </p>

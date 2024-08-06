@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Judy Costa</h1>
 <h3 align="center">Aspiring software engineer who is passionate about web development</h3>
 
-- 🌱 I’m currently learning **Advanced JavaScript Concepts and React**
+- 🌱 I’m currently learning **Advanced Java Concepts**
 
 - 📫 How to reach me **shehanithihara98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/callmejudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="callmejudy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/callmejudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myLinkedInProfile" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Feel free to visit my Medium profile</h3>
+<p align="left">
+<a href="https://medium.com/@callmejudy" target="blank"><img align="center" src="<a target="_blank" href="https://icons8.com/icon/GlEHSV1RF10y/medium">Medium</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" alt="myMediumProfile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -12,7 +12,7 @@
 
 <h3 align="left">Feel free to visit my Medium profile</h3>
 <p align="left">
-<a href="https://medium.com/@callmejudy" target="blank"><img align="center" src="<a target="_blank" href="https://icons8.com/icon/GlEHSV1RF10y/medium">Medium</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" alt="myMediumProfile" height="30" width="40" /></a>
+<a href="https://medium.com/@callmejudy" target="blank"><img align="center" src="https://img.icons8.com/sf-regular-filled/48/medium-logo.png" alt="myMediumProfile" width="48" height="48" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
